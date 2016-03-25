@@ -4,7 +4,7 @@
 
 ## CSS Assignment
  - Open the following CodePen link: [http://codepen.io/EggDice/pen/GpKJMZ](http://codepen.io/EggDice/pen/GpKJMZ). It will contain an HTML example, that shows four yellow boxes on the bottom. 
- - Please fork the project and provide the link of the new project.
+ - Please fork the project.
  - The assignment is to modify the code of your forked project, to make the 3rd box's border blue and its background purple.
  - Create a fifth box with orange background and pink border
 
