@@ -17,7 +17,7 @@ Glad to see you here, we hope you will enjoy these challenges. If you complete a
     - 2 -> Insertion sort
     - 3 -> Selection sort
     - 4 -> Shake sort
- - There is four lists of numbers: (Roll with k4 again!)
+ - There are four lists of numbers: (Roll with k4 again!)
     - 1 -> [8,2,1,3,7,6,9]
     - 2 -> [5,1,2,9,7,3,8]
     - 3 -> [1,7,3,6,8,2,9]
