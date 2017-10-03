@@ -12,12 +12,12 @@ Glad to see you here, we hope you will enjoy these challenges. If you complete a
  - Create a fifth box with green background and blue border
 
 ## 3) Algorithm assignment
- - Roll with k4!
+ - Roll with D4!
     - 1 -> Bubble sort
     - 2 -> Insertion sort
     - 3 -> Selection sort
     - 4 -> Shake sort
- - There are four lists of numbers: (Roll with k4 again!)
+ - There are four lists of numbers: (Roll with D4 again!)
     - 1 -> [8,2,1,3,7,6,9]
     - 2 -> [5,1,2,9,7,3,8]
     - 3 -> [1,7,3,6,8,2,9]
