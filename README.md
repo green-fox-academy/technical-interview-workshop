@@ -8,9 +8,11 @@ Glad to see you here, we hope you will enjoy these challenges. If you complete a
  - Open the following CodePen link: [https://codepen.io/herrnorbert/pen/EwQjjO](https://codepen.io/herrnorbert/pen/EwQjjO). It will contain an HTML example, that shows four yellow boxes on the bottom. 
  - Please fork the project (don't sign up for CodePen).
  - Your task is to modify the code of your forked project
- ||1|2|3|4|
- |Make the 3rd box's|border blue and its background purple|text crossed by a Magenta colored line|text alligned to middle||
- |Create a fifth box with|green background and blue border|text crossed by a Navy colored line |text alligned to right||
+ 
+| - | 1 | 2|3|4|
+|:--------|--------|--------|--------|--------:|
+|Make the 3rd box's|border blue and its background purple|text crossed by a Magenta colored line|text alligned to middle||
+|Create a fifth box with|green background and blue border|text crossed by a Navy colored line |text alligned to right||
  
 ## 3) Algorithm assignment
  - Roll with D4!
