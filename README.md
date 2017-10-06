@@ -9,11 +9,13 @@ Glad to see you here, we hope you will enjoy these challenges. If you complete a
  - Please fork the project (don't sign up for CodePen).
  - Your task is to modify the code of your forked project
  
-| - | 1 | 2|3|4|
-|:--------|--------|--------|--------|--------:|
-|Make the 3rd box's|border blue and its background purple|text crossed by a Magenta colored line|text alligned to middle||
-|Create a fifth box with|green background and blue border|text crossed by a Navy colored line |text alligned to right||
- 
+| - | Make the 3rd box's | Create a fifth box with |
+|:--------|--------|--------:|
+| 1 | border blue and its background purple | green background and blue border |
+| 2 | text crossed by a Magenta colored line | text crossed by a Navy colored line |
+| 3 | text alligned to middle | text alligned to right |
+| 4 | - | - |
+
 ## 3) Algorithm assignment
  - Roll with D4!
     - 1 -> Bubble sort
