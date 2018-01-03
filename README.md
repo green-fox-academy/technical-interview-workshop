@@ -25,6 +25,9 @@ Glad to see you here, we hope you will enjoy these challenges. If you complete a
  - We sort the picked list with the selected algorithm, to order the numbers. For example: [8,2,1,3,7,6,9] -> [1,2,3,6,7,8,9]
  - Please describe the state of the list in the first eight steps(swap or not) only.
 
+## 3.5) For Hardware applicant micro:bit assignment
+ - On the given micro:bit board draw a smile on the LED matrix for one seconds if the button is pressed on the board 
+ 
 ## 4) Python assignment
  - Sign up for CodeAcademy
  - Open the following CodeAcademy link: [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
